@@ -1,0 +1,33 @@
+body{
+    font-family: 'Sen', sans-serif;
+    width: 1920px; 
+    text-align: center;   
+    background-color: #2a2a2a ;
+    color: white;
+
+}
+#output{
+    width: 600px;
+    margin: 0 auto;
+    
+}
+.className1{
+    color:rgb(159, 159, 159);
+}
+section{
+    background-color: #0000005d;
+    padding:5px;
+    margin:25px;
+    border-radius: 5px;
+}
+img{
+    margin-top: 65px;
+    margin-left: 135px;
+    width: 400px;
+    text-align: center !important;
+    float: right;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #0000005d;
+
+
+}
