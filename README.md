@@ -5,4 +5,4 @@ Just download as zip and open the HTML File
 
 Done with ChatGPT, will plan on adding more things but like me lazy 3;
 
-![meow]([[http://url/to/img.png](https://i.imgur.com/fWsACR1.png)](https://i.imgur.com/fWsACR1.png))
+![meow](https://raw.githubusercontent.com/Ayreth/Aibooru2prompts/main/chrome_S1CZk9GJ4C.png)
